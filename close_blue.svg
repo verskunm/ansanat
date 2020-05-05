@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="9px" height="9px" viewBox="0 0 9 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>F53D4DFC-67BE-4117-B554-46CDF859082A</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <polygon id="path-1" points="11.875 4.00625 10.99375 3.125 7.5 6.61875 4.00625 3.125 3.125 4.00625 6.61875 7.5 3.125 10.99375 4.00625 11.875 7.5 8.38125 10.99375 11.875 11.875 10.99375 8.38125 7.5"></polygon>
+    </defs>
+    <g id="389-Web-Search+CategorySection-OLD" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Category-Section-OLD-usefull-filters" transform="translate(-960.000000, -270.000000)">
+            <g id="OLD-/-category-/-popup-usefull-filters" transform="translate(231.000000, 254.000000)">
+                <g id="Ico-/-cross-/-cross-blue" transform="translate(726.000000, 13.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="icon/navigation/close_24px-copy-2" fill="#019FFF" fill-rule="nonzero" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
